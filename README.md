@@ -1,4 +1,4 @@
-# learning-git
+# Git and Github course
 
 This repo was used to learn git from XTRMDTECHGUY
 https://XtrmDTechGuy.com.courses/git-github
